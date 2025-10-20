@@ -11,7 +11,7 @@
     "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
     "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/laptop-pro.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/laptop-pro.png"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["intel", "16gb", "4k", "wifi6"],
@@ -36,7 +36,7 @@
     "shortDescription": "Флагманский смартфон с OLED-дисплеем и высокой скоростью.",
     "description": "6.5\" OLED 120 Гц, 256 ГБ, 8 ГБ RAM, 4800 мА·ч, камеры 50+12+10 Мп, 5G, NFC, защита IP68.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/smartphone-x.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/smartphone-x.png"
     ],
     "categories": ["Смартфоны"],
     "tags": ["oled", "120hz", "camera", "5g"],
@@ -61,7 +61,7 @@
     "shortDescription": "Беспроводные наушники с шумоподавлением и чистым звуком.",
     "description": "Активное шумоподавление (ANC), Bluetooth 5.3, до 30 часов работы, сенсорное управление, чехол-зарядка USB-C.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/headphones.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/headphones.png"
     ],
     "categories": ["Аудио"],
     "tags": ["bluetooth", "anc", "wireless"],
@@ -85,7 +85,7 @@
     "shortDescription": "Стильные смарт-часы для спорта и повседневной жизни.",
     "description": "AMOLED 1.8\", датчик пульса и SpO₂, шагомер, уведомления, Bluetooth 5.2, защита IP68, 7 дней без подзарядки.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/smartwatch.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/smartwatch.png"
     ],
     "categories": ["Гаджеты"],
     "tags": ["fitness", "bluetooth", "wearable"],
@@ -108,7 +108,7 @@
     "shortDescription": "Игровая консоль нового поколения для ярких впечатлений.",
     "description": "Поддержка 4K 120 Гц, SSD 1 ТБ, геймпад с тактильной отдачей, HDR, Dolby Atmos, онлайн-сервисы.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/console.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/console.png"
     ],
     "categories": ["Игры"],
     "tags": ["4k", "ssd", "hdr"],
@@ -131,7 +131,7 @@
     "shortDescription": "Телевизор 4K Ultra HD для полного погружения.",
     "description": "OLED 55\" 120 Гц, Google TV, HDMI 2.1 (x4), Dolby Vision, Wi-Fi 6.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/4k-tv.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/4k-tv.png"
     ],
     "categories": ["TV"],
     "tags": ["oled", "120hz", "google-tv"],
@@ -155,7 +155,7 @@
     "shortDescription": "Лёгкий планшет для учёбы и развлечений.",
     "description": "Экран 11\" IPS, 128 ГБ памяти, 8 ГБ RAM, USB-C, Wi-Fi 6, Bluetooth 5.2, до 10 часов работы.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/tablet.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/tablet.png"
     ],
     "categories": ["Планшеты"],
     "tags": ["wifi6", "usb-c", "study"],
@@ -179,7 +179,7 @@
     "shortDescription": "Компактная колонка с мощным и чистым звуком.",
     "description": "40 Вт, стерео, Bluetooth 5.3, влагозащита IPX6, до 20 ч работы, USB-C зарядка.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/speaker.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/speaker.png"
     ],
     "categories": ["Аудио"],
     "tags": ["bluetooth", "speaker", "portable"],
@@ -202,7 +202,7 @@
     "shortDescription": "Игровая мышь с RGB-подсветкой и высокой точностью.",
     "description": "Сенсор 16000 DPI, 7 программируемых кнопок, RGB-подсветка, провод 1.8 м.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/mouse.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/mouse.png"
     ],
     "categories": ["Периферия"],
     "tags": ["gaming", "rgb", "mouse"],
@@ -225,7 +225,7 @@
     "shortDescription": "Механическая клавиатура с RGB-подсветкой и плавным ходом клавиш.",
     "description": "Переключатели Red, RGB-подсветка, алюминиевый корпус, USB-C, съёмный кабель, 100% Anti-Ghosting.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/keyboard.webp"
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/keyboard.png"
     ],
     "categories": ["Периферия"],
     "tags": ["keyboard", "rgb", "gaming"],
