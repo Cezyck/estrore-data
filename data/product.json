@@ -1,0 +1,239 @@
+[
+  {
+    "id": "lp-001",
+    "name": "Laptop Pro 15",
+    "slug": "laptop-pro-15",
+    "price": 1200,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 132,
+    "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
+    "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/laptop-pro.webp"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["intel", "16gb", "4k", "wifi6"],
+    "specs": {
+      "Экран": "15.6\" IPS 3840×2160 (4K)",
+      "Процессор": "Intel Core i7-13700H",
+      "ОЗУ": "16 ГБ DDR5",
+      "SSD": "512 ГБ NVMe",
+      "Вес": "1.6 кг",
+      "ОС": "Windows 11"
+    }
+  },
+  {
+    "id": "spx-002",
+    "name": "Smartphone X",
+    "slug": "smartphone-x",
+    "price": 850,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 89,
+    "shortDescription": "Флагманский смартфон с OLED-дисплеем и высокой скоростью.",
+    "description": "6.5\" OLED 120 Гц, 256 ГБ, 8 ГБ RAM, 4800 мА·ч, камеры 50+12+10 Мп, 5G, NFC, защита IP68.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/smartphone-x.webp"
+    ],
+    "categories": ["Смартфоны"],
+    "tags": ["oled", "120hz", "camera", "5g"],
+    "specs": {
+      "Экран": "6.5\" OLED 120 Гц",
+      "Память": "256 ГБ",
+      "RAM": "8 ГБ",
+      "Камеры": "50+12+10 Мп",
+      "Батарея": "4800 мА·ч",
+      "SIM": "Dual nanoSIM + eSIM"
+    }
+  },
+  {
+    "id": "wh-003",
+    "name": "Wireless Headphones",
+    "slug": "wireless-headphones",
+    "price": 210,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 201,
+    "shortDescription": "Беспроводные наушники с шумоподавлением и чистым звуком.",
+    "description": "Активное шумоподавление (ANC), Bluetooth 5.3, до 30 часов работы, сенсорное управление, чехол-зарядка USB-C.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/headphones.webp"
+    ],
+    "categories": ["Аудио"],
+    "tags": ["bluetooth", "anc", "wireless"],
+    "specs": {
+      "Тип": "Накладные",
+      "Время работы": "30 ч",
+      "Шумоподавление": "Активное (ANC)",
+      "Bluetooth": "5.3",
+      "Вес": "250 г"
+    }
+  },
+  {
+    "id": "swz-004",
+    "name": "Smartwatch Z",
+    "slug": "smartwatch-z",
+    "price": 180,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.4,
+    "reviewsCount": 57,
+    "shortDescription": "Стильные смарт-часы для спорта и повседневной жизни.",
+    "description": "AMOLED 1.8\", датчик пульса и SpO₂, шагомер, уведомления, Bluetooth 5.2, защита IP68, 7 дней без подзарядки.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/smartwatch.webp"
+    ],
+    "categories": ["Гаджеты"],
+    "tags": ["fitness", "bluetooth", "wearable"],
+    "specs": {
+      "Экран": "1.8\" AMOLED",
+      "Аккумулятор": "300 мА·ч, 7 дней",
+      "Совместимость": "iOS / Android",
+      "Вес": "40 г"
+    }
+  },
+  {
+    "id": "gc-005",
+    "name": "Gaming Console",
+    "slug": "gaming-console",
+    "price": 450,
+    "currency": "RUB",
+    "inStock": false,
+    "rating": 4.9,
+    "reviewsCount": 324,
+    "shortDescription": "Игровая консоль нового поколения для ярких впечатлений.",
+    "description": "Поддержка 4K 120 Гц, SSD 1 ТБ, геймпад с тактильной отдачей, HDR, Dolby Atmos, онлайн-сервисы.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/console.webp"
+    ],
+    "categories": ["Игры"],
+    "tags": ["4k", "ssd", "hdr"],
+    "specs": {
+      "Память": "1 ТБ SSD",
+      "Видео": "4K 120 Гц HDR",
+      "Контроллер": "DualSense Haptic",
+      "Сеть": "Wi-Fi 6, Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "tv4k-006",
+    "name": "4K Ultra TV 55\"",
+    "slug": "4k-ultra-tv-55",
+    "price": 1000,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 51,
+    "shortDescription": "Телевизор 4K Ultra HD для полного погружения.",
+    "description": "OLED 55\" 120 Гц, Google TV, HDMI 2.1 (x4), Dolby Vision, Wi-Fi 6.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/4k-tv.webp"
+    ],
+    "categories": ["TV"],
+    "tags": ["oled", "120hz", "google-tv"],
+    "specs": {
+      "Диагональ": "55\"",
+      "Частота": "120 Гц",
+      "ОС": "Google TV",
+      "HDMI": "4× 2.1",
+      "Звук": "Dolby Atmos"
+    }
+  },
+  {
+    "id": "tb-007",
+    "name": "Tablet Air",
+    "slug": "tablet-air",
+    "price": 650,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.3,
+    "reviewsCount": 76,
+    "shortDescription": "Лёгкий планшет для учёбы и развлечений.",
+    "description": "Экран 11\" IPS, 128 ГБ памяти, 8 ГБ RAM, USB-C, Wi-Fi 6, Bluetooth 5.2, до 10 часов работы.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/tablet.webp"
+    ],
+    "categories": ["Планшеты"],
+    "tags": ["wifi6", "usb-c", "study"],
+    "specs": {
+      "Экран": "11\" IPS",
+      "Память": "128 ГБ",
+      "RAM": "8 ГБ",
+      "Батарея": "7500 мА·ч",
+      "Вес": "460 г"
+    }
+  },
+  {
+    "id": "bs-008",
+    "name": "Bluetooth Speaker",
+    "slug": "bluetooth-speaker",
+    "price": 140,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 98,
+    "shortDescription": "Компактная колонка с мощным и чистым звуком.",
+    "description": "40 Вт, стерео, Bluetooth 5.3, влагозащита IPX6, до 20 ч работы, USB-C зарядка.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/speaker.webp"
+    ],
+    "categories": ["Аудио"],
+    "tags": ["bluetooth", "speaker", "portable"],
+    "specs": {
+      "Мощность": "40 Вт",
+      "Bluetooth": "5.3",
+      "Автономность": "20 ч",
+      "Влагозащита": "IPX6"
+    }
+  },
+  {
+    "id": "gm-009",
+    "name": "Gaming Mouse RGB",
+    "slug": "gaming-mouse-rgb",
+    "price": 80,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.2,
+    "reviewsCount": 34,
+    "shortDescription": "Игровая мышь с RGB-подсветкой и высокой точностью.",
+    "description": "Сенсор 16000 DPI, 7 программируемых кнопок, RGB-подсветка, провод 1.8 м.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/mouse.webp"
+    ],
+    "categories": ["Периферия"],
+    "tags": ["gaming", "rgb", "mouse"],
+    "specs": {
+      "DPI": "16000",
+      "Кнопки": "7",
+      "Кабель": "1.8 м",
+      "Интерфейс": "USB 2.0"
+    }
+  },
+  {
+    "id": "mk-010",
+    "name": "Mechanical Keyboard",
+    "slug": "mechanical-keyboard",
+    "price": 150,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 121,
+    "shortDescription": "Механическая клавиатура с RGB-подсветкой и плавным ходом клавиш.",
+    "description": "Переключатели Red, RGB-подсветка, алюминиевый корпус, USB-C, съёмный кабель, 100% Anti-Ghosting.",
+    "images": [
+      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/keyboard.webp"
+    ],
+    "categories": ["Периферия"],
+    "tags": ["keyboard", "rgb", "gaming"],
+    "specs": {
+      "Тип переключателей": "Red (линейные)",
+      "Подсветка": "RGB",
+      "Интерфейс": "USB-C",
+      "Корпус": "Алюминий"
+    }
+  }
+]
